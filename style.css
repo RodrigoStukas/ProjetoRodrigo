@@ -54,7 +54,8 @@ padding: 0 24px;
 }
 
 #profile img {
-  width: 122px;
+  width: 155px;
+  padding-bottom: 0px;
 }
 
 #profile p {
